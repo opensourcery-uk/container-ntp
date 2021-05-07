@@ -1,4 +1,4 @@
-# bind9 container
+# ntp container
 
 This is a very simple ntp container based on Debian.
 
